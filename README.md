@@ -3,4 +3,4 @@ Tét merge
 test cherry-pick
 test rebase with cm 1
 test rebase with cm 2
-test delete commit 1
+test delete commit 12
